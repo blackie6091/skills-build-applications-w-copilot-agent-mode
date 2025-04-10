@@ -1,4 +1,4 @@
-# Add MongoDB database connection
+# MongoDB database connection
 DATABASES = {
     'default': {
         'ENGINE': 'djongo',
