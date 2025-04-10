@@ -1,3 +1,5 @@
+import djongo  # Explicitly import djongo
+
 # MongoDB database connection
 DATABASES = {
     'default': {
