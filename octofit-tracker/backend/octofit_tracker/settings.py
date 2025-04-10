@@ -45,4 +45,4 @@ CORS_ALLOW_HEADERS = [
 ]
 
 # Allow all hosts
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'laughing-capybara-vjvjq5579gjhv55-8000.app.github.dev']
